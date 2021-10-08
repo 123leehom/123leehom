@@ -1,4 +1,4 @@
-## 👋 Hi there is *123leehom*'s github,*welcom*
+## 👋 Hi there is *123leehom*'s github,*welcome*
 <img align="right" src="https://count.getloli.com/get/@:123leehom?theme=rule34">
 
 **OS:**
@@ -25,8 +25,8 @@
 
 **Platforms:**
 <a href="https://www.kernel.org">
-<code><img src="https://gitee.com/leehom123/tu-ch/tree/master/icon/linux.png" width="24" /></code>
-
+<code><img src="https://cdn.jsdelivr.net/gh/ershidai/ershidai.github.io@master/photos/icons/linux.png" width="24" /></code>
+</a>
 <a href="https://www.microsoft.com/en-us/software-download/windows11">
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="24" /></code>
 </a>
