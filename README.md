@@ -1,4 +1,4 @@
-## 👋 Hi there is *123leehom*'s github,*welcome*
+## 👋 Hi there is *123leehom*,*welcome*
 <img align="right" src="https://count.getloli.com/get/@:123leehom?theme=rule34">
 
 **OS:**
